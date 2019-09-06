@@ -1,0 +1,33 @@
+img {
+    max-width: 30em;
+}
+
+h1:hover, :focus{
+text-decoration: underline;
+}
+
+#title:hover, 
+#title:focus {
+text-decoration: underline;
+}
+
+section p {
+    text-indent: 2em;
+    width: 500px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li:hover, nav ul li:focus {
+    background-color: aqua;
+}
+
+nav ul li a:active {
+    color: greenyellow;
+}
+
+nav ul li a:visited {
+    color: violet;
+}
