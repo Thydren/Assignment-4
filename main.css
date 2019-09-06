@@ -31,3 +31,21 @@ nav ul li a:active {
 nav ul li a:visited {
     color: violet;
 }
+
+header img {
+    height: 300px;
+    width: auto;
+}
+
+table tr td:first-child {
+    font-weight: bold;
+}
+
+tr {
+    background-color: pink;
+}
+
+tr td, th {
+    border: 2px aqua solid;
+    padding: 10px 10px;
+}
